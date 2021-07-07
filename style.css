@@ -99,6 +99,7 @@ h2{
 .food-network{
     text-align: center;
     background-color:sienna;
+    padding-bottom: 5%;
 }
 .flexible-subscribers{
     display: flex;
@@ -116,5 +117,8 @@ h2{
 }
 .subscriber-text{
     padding-left: 30%;
+}
+.bottom-line{
+    text-align: end;
 }
 
